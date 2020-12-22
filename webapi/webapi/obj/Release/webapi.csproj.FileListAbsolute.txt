@@ -1,0 +1,147 @@
+G:\web api\webapi\webapi\bin\ApplicationInsights.config
+G:\web api\webapi\webapi\bin\roslyn\csc.exe
+G:\web api\webapi\webapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\web api\webapi\webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\web api\webapi\webapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\web api\webapi\webapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\web api\webapi\webapi\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\web api\webapi\webapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\web api\webapi\webapi\bin\roslyn\System.Collections.Immutable.dll
+G:\web api\webapi\webapi\bin\roslyn\System.Reflection.Metadata.dll
+G:\web api\webapi\webapi\bin\roslyn\vbc.exe
+G:\web api\webapi\webapi\bin\roslyn\VBCSCompiler.exe
+G:\web api\webapi\webapi\bin\roslyn\VBCSCompiler.exe.config
+G:\web api\webapi\webapi\bin\webapi.dll.config
+G:\web api\webapi\webapi\bin\webapi.dll
+G:\web api\webapi\webapi\bin\webapi.pdb
+G:\web api\webapi\webapi\bin\Antlr3.Runtime.dll
+G:\web api\webapi\webapi\bin\Microsoft.AI.Agent.Intercept.dll
+G:\web api\webapi\webapi\bin\Microsoft.AI.DependencyCollector.dll
+G:\web api\webapi\webapi\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\web api\webapi\webapi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\web api\webapi\webapi\bin\Microsoft.AI.Web.dll
+G:\web api\webapi\webapi\bin\Microsoft.AI.WindowsServer.dll
+G:\web api\webapi\webapi\bin\Microsoft.ApplicationInsights.dll
+G:\web api\webapi\webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\web api\webapi\webapi\bin\Microsoft.Web.Infrastructure.dll
+G:\web api\webapi\webapi\bin\Newtonsoft.Json.dll
+G:\web api\webapi\webapi\bin\System.Net.Http.Formatting.dll
+G:\web api\webapi\webapi\bin\System.Web.Helpers.dll
+G:\web api\webapi\webapi\bin\System.Web.Http.dll
+G:\web api\webapi\webapi\bin\System.Web.Http.WebHost.dll
+G:\web api\webapi\webapi\bin\System.Web.Mvc.dll
+G:\web api\webapi\webapi\bin\System.Web.Optimization.dll
+G:\web api\webapi\webapi\bin\System.Web.Razor.dll
+G:\web api\webapi\webapi\bin\System.Web.WebPages.Deployment.dll
+G:\web api\webapi\webapi\bin\System.Web.WebPages.dll
+G:\web api\webapi\webapi\bin\System.Web.WebPages.Razor.dll
+G:\web api\webapi\webapi\bin\WebGrease.dll
+G:\web api\webapi\webapi\bin\Microsoft.AI.DependencyCollector.xml
+G:\web api\webapi\webapi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\web api\webapi\webapi\bin\Microsoft.AI.Web.xml
+G:\web api\webapi\webapi\bin\Microsoft.AI.WindowsServer.xml
+G:\web api\webapi\webapi\bin\Microsoft.ApplicationInsights.xml
+G:\web api\webapi\webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\web api\webapi\webapi\bin\Newtonsoft.Json.xml
+G:\web api\webapi\webapi\bin\System.Net.Http.Formatting.xml
+G:\web api\webapi\webapi\bin\System.Web.Helpers.xml
+G:\web api\webapi\webapi\bin\System.Web.Http.xml
+G:\web api\webapi\webapi\bin\System.Web.Http.WebHost.xml
+G:\web api\webapi\webapi\bin\System.Web.Mvc.xml
+G:\web api\webapi\webapi\bin\System.Web.Optimization.xml
+G:\web api\webapi\webapi\bin\System.Web.Razor.xml
+G:\web api\webapi\webapi\bin\System.Web.WebPages.xml
+G:\web api\webapi\webapi\bin\System.Web.WebPages.Deployment.xml
+G:\web api\webapi\webapi\bin\System.Web.WebPages.Razor.xml
+G:\web api\webapi\webapi\bin\Antlr3.Runtime.pdb
+G:\web api\webapi\webapi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+G:\web api\webapi\webapi\bin\zh-Hans\System.Web.Helpers.resources.dll
+G:\web api\webapi\webapi\bin\zh-Hans\System.Web.Http.resources.dll
+G:\web api\webapi\webapi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+G:\web api\webapi\webapi\bin\zh-Hans\System.Web.Mvc.resources.dll
+G:\web api\webapi\webapi\bin\zh-Hans\System.Web.Optimization.resources.dll
+G:\web api\webapi\webapi\bin\zh-Hans\System.Web.Razor.resources.dll
+G:\web api\webapi\webapi\bin\zh-Hans\System.Web.WebPages.resources.dll
+G:\web api\webapi\webapi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\web api\webapi\webapi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+G:\web api\webapi\webapi\obj\Release\webapi.csprojResolveAssemblyReference.cache
+G:\web api\webapi\webapi\obj\Release\webapi.dll
+G:\web api\webapi\webapi\obj\Release\webapi.pdb
+G:\web api\webapi\webapi\bin\BLL.dll
+G:\web api\webapi\webapi\bin\Dal.dll
+G:\web api\webapi\webapi\bin\DBUtility.dll
+G:\web api\webapi\webapi\bin\BLL.pdb
+G:\web api\webapi\webapi\bin\Dal.pdb
+G:\web api\webapi\webapi\bin\DBUtility.pdb
+D:\web开发\web api\web api\webapi\webapi\bin\ApplicationInsights.config
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\csc.exe
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\System.Collections.Immutable.dll
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\System.Reflection.Metadata.dll
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\vbc.exe
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\VBCSCompiler.exe
+D:\web开发\web api\web api\webapi\webapi\bin\roslyn\VBCSCompiler.exe.config
+D:\web开发\web api\web api\webapi\webapi\bin\webapi.dll.config
+D:\web开发\web api\web api\webapi\webapi\bin\webapi.dll
+D:\web开发\web api\web api\webapi\webapi\bin\webapi.pdb
+D:\web开发\web api\web api\webapi\webapi\bin\Antlr3.Runtime.dll
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.AI.DependencyCollector.dll
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.AI.Web.dll
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.AI.WindowsServer.dll
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.ApplicationInsights.dll
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.Web.Infrastructure.dll
+D:\web开发\web api\web api\webapi\webapi\bin\Newtonsoft.Json.dll
+D:\web开发\web api\web api\webapi\webapi\bin\System.Net.Http.Formatting.dll
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Helpers.dll
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Http.dll
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Http.WebHost.dll
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Mvc.dll
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Optimization.dll
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Razor.dll
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.WebPages.Deployment.dll
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.WebPages.dll
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.WebPages.Razor.dll
+D:\web开发\web api\web api\webapi\webapi\bin\WebGrease.dll
+D:\web开发\web api\web api\webapi\webapi\bin\BLL.pdb
+D:\web开发\web api\web api\webapi\webapi\bin\Dal.pdb
+D:\web开发\web api\web api\webapi\webapi\bin\DBUtility.pdb
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.AI.DependencyCollector.xml
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.AI.Web.xml
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.AI.WindowsServer.xml
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.ApplicationInsights.xml
+D:\web开发\web api\web api\webapi\webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\web开发\web api\web api\webapi\webapi\bin\Newtonsoft.Json.xml
+D:\web开发\web api\web api\webapi\webapi\bin\System.Net.Http.Formatting.xml
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Helpers.xml
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Http.xml
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Http.WebHost.xml
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Mvc.xml
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Optimization.xml
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.Razor.xml
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.WebPages.xml
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.WebPages.Deployment.xml
+D:\web开发\web api\web api\webapi\webapi\bin\System.Web.WebPages.Razor.xml
+D:\web开发\web api\web api\webapi\webapi\bin\Antlr3.Runtime.pdb
+D:\web开发\web api\web api\webapi\webapi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\web开发\web api\web api\webapi\webapi\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\web开发\web api\web api\webapi\webapi\bin\zh-Hans\System.Web.Http.resources.dll
+D:\web开发\web api\web api\webapi\webapi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\web开发\web api\web api\webapi\webapi\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\web开发\web api\web api\webapi\webapi\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\web开发\web api\web api\webapi\webapi\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\web开发\web api\web api\webapi\webapi\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\web开发\web api\web api\webapi\webapi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\web开发\web api\web api\webapi\webapi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\web开发\web api\web api\webapi\webapi\obj\Release\webapi.csprojResolveAssemblyReference.cache
+D:\web开发\web api\web api\webapi\webapi\obj\Release\webapi.dll
+D:\web开发\web api\web api\webapi\webapi\obj\Release\webapi.pdb
